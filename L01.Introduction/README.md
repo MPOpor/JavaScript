@@ -1,2 +1,0 @@
-# JavaScript
-To study JavaScript
