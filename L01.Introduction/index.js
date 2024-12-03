@@ -1,3 +1,8 @@
-//My first JSscript...
-console.log('Hello Javascript I did it.')
-console.log('Opor')
+const message = "Hello";
+const place = "World";
+
+console.log('Hello, World!');
+
+console.log('Hello, %s!', place);
+
+console.log('${message}, ${place}!');
