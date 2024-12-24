@@ -1,0 +1,13 @@
+let arr1 = ["A", true, 2];
+console.log("\n********Length and index***жжжжж\n");
+console.log(arr1.length);
+console.log(arr1[3]); //Doesn't exist
+console.log(arr1 [2]); //Last index of array
+console.log(arr1 [arr1.length - 1]); //Equals 2
+console.log("\пжжжжжжжжLength and index Part 2жжжжжжжж\n");
+let arr3 = Array(3); //Empty array of length 3
+arr3 [2] = "Adding a value!";
+console.log(arr3 [2]); //Last index of array
+console.log(arr3 [arr3. length - 1]); //Index: 2
+console.log(arr3 [0]); //No value yet
+console.log(arr3 [1]); //No value yet
